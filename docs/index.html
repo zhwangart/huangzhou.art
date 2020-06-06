@@ -17,10 +17,19 @@
         window.$docsify = {
             name: '黄胄',
             repo: '',
-            coverpage: true
+            coverpage: true,
+            search: {
+                paths: [
+                    '/'
+                ],
+                placeholder: '搜索',
+                noData: '找不到结果！',
+                depth: 6
+            }
         }
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 
 </html>
