@@ -32,6 +32,13 @@ section.cover h1+p {
     bottom: auto;
     left: 16rem;
 }
+@media screen and (max-width: 768px) {
+    .sidebar-toggle {
+        padding: 10px 30px 10px 10px;
+        left: 0;
+    }
+}
+
 .sidebar-nav {
     text-align: center;
 }
