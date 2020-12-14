@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img class="coverpage-avatar" width=160 src="https://s1.ax1x.com/2020/06/06/t6Veln.jpg" alt="黄胄">
+<img class="coverpage-avatar" width=160 src="https://s3.ax1x.com/2020/12/14/rnPTtH.jpg" alt="黄胄">
 
 # 黄胄
 
