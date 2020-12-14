@@ -9,7 +9,7 @@
 > 中国画艺术大师，社会活动家，收藏家。
 
 - 保定黄胄艺术研究院
-- &copy; 2020
+- Copyright &copy; 2020-2021
 
 <!-- background color -->
 ![color](white)
